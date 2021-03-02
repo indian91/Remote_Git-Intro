@@ -1,0 +1,7 @@
+print('*'*80)
+print('*'*80)
+print()
+print('Hello World to python'.center(80,' '))
+print()
+print('*'*80)
+print('*'*80)
