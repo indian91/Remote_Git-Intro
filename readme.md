@@ -1,4 +1,4 @@
-#This repo is created for testing the collbreatiob process
+# This repo is created for testing the collbration process
 
 ## we create a collabrator @jainsamyak1008
 
